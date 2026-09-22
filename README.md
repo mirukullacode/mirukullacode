@@ -85,19 +85,3 @@ Took an idea through user research, product development, and execution. Shortlis
 **OpenTelemetry · SigNoz · Grafana · Prometheus · Jaeger**
 
 **Currently exploring:** AI agents, RAG, distributed systems, developer tooling.
-
----
-
-## Featured Repos
-
-<a href="https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirukullacode&repo=Argus---SigNoz-Hackathon-Project&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirukullacode&repo=Tiny-Stories---Small-Language-Model-&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/mirukullacode/Bookeeda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirukullacode&repo=Bookeeda&theme=dark&hide_border=true" />
-</a>
