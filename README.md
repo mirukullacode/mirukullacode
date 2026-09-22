@@ -1,18 +1,18 @@
 # Hi, I'm Manjunath Irukulla 👋
 
-**Builder • AI Engineer • Product & Operations Generalist**
+**Developer • Builder • Tech Enthusiast**
 
-I like working on ambiguous problems, figuring out what needs to be done, and shipping.
+I enjoy building things, learning how technology works under the hood, and sharing what I learn.
 
-I've worked across **engineering, product, operations, research, developer relations, and technical content** — mostly in early-stage environments where I had to wear multiple hats.
+My interests span **software engineering, AI/ML, DevOps, developer tools, and startups**. I like going from an idea → research → code → something people can actually use.
 
-### What I've done
+### A little about me
 
-- 🚀 **Built Bookeeda**, my own startup while in college, working across product, user research, operations, and execution. It was shortlisted for PIERC's entrepreneurship incubation program from **4,500+ students**.
-- 🛠️ **Worked as a DevOps Intern at Onwe**, where I also helped with **hiring and building the team** alongside my technical responsibilities.
-- 🌐 **Led DevOps & Open Source at Google Developer Student Club**, organising technical events and helping students learn developer technologies.
-- ✍️ **Worked with SigNoz**, a YC-backed observability startup, on technical content and developer-facing initiatives. The developer community grew from **10K → 25K in six months** during this period.
-- 🧠 **Build AI systems to learn by doing**, including an incident investigation agent and a small language model trained from scratch.
+- 🚀 Built **Bookeeda**, a startup I worked on during college, taking it from idea and user research to product development and execution.
+- 🛠️ Worked as a **DevOps Engineer at Onwe**, building and working across infrastructure and engineering.
+- 🌐 Previously led **DevOps & Open Source at Google Developer Student Club**, where I organised technical sessions and helped students learn developer technologies.
+- ✍️ Worked with **SigNoz**, a YC-backed observability startup, as a technical content writer and contributed to developer-focused content and initiatives.
+- 🧠 I learn by building — from AI agents and RAG systems to training a small language model from scratch.
 
 ### Things I've built
 
@@ -20,15 +20,15 @@ I've worked across **engineering, product, operations, research, developer relat
 An AI-powered server incident investigation agent with memory.
 
 **[Small Language Model](https://github.com/yoursmanjunad/Tiny-Stories---Small-Language-Model-)**  
-A ~15M parameter language model built from scratch by studying and implementing ideas from research papers.
+A ~15M parameter language model built from scratch while studying ideas from research papers.
 
-### I enjoy working on
+### What I'm exploring
 
-**Product** · **AI/ML** · **Engineering** · **Research** · **Operations** · **Developer Relations** · **GTM**
+**AI/ML** · **LLMs** · **Software Engineering** · **DevOps** · **Developer Tools** · **Distributed Systems** · **Startups**
 
-I’m particularly drawn to early-stage teams where the job isn't limited to a single function and someone needs to **figure things out and make them happen.**
+I'm usually learning something new, building a side project, or trying to understand how a piece of technology actually works.
 
-### Tech
+### Tech I work with
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,nodejs,react,nextjs,tailwind,express,mongodb,postgres,redis,docker,aws,gcp,linux,git" />
