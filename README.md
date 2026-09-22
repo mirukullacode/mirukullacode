@@ -55,6 +55,9 @@ Took an idea through user research, product development, and execution. Shortlis
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
@@ -62,15 +65,26 @@ Took an idea through user research, product development, and execution. Shortlis
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-**PyTorch · LangChain · LangGraph · Hugging Face · OpenAI & Anthropic APIs**
+**PyTorch · scikit-learn · Pandas · NumPy · LangChain · LangGraph · Hugging Face · OpenAI & Anthropic APIs**
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" />
+</p>
+
+**React · Next.js · Tailwind CSS · shadcn/ui · GSAP**
 
 ### Backend & Infra
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,docker,aws,gcp,linux,git" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-**Node.js · Express · PostgreSQL · MongoDB · Redis · Docker · AWS · GCP**
+**Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis · Docker · AWS · GCP**
 
 ### Observability
 
