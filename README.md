@@ -1,6 +1,6 @@
 # Manjunath Irukulla
 
-Software engineer building AI agents, developer tooling, and products end to end — from research to shipped code.
+Software engineer building AI agents, developer tooling, and products end-to-end from research to shipped code.
 
 [LinkedIn](https://www.linkedin.com/in/irumanjunath/) · [X](https://x.com/MIrukulla) · [Writing](https://picayune-nation-3c8.notion.site/Manjunath-Irukulla-3defcd06e28280569e20dd1b11426075?pvs=74) · [Email](mailto:imanjunad@gmail.com)
 
@@ -8,7 +8,7 @@ Software engineer building AI agents, developer tooling, and products end to end
 
 ## Projects
 
-[**Argus**](https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project) **— AI incident investigation agent**  
+[**Argus**](https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project) **AI incident investigation agent**  
 Built for the [SigNoz](https://signoz.io/) hackathon. Correlates telemetry, logs, and traces with memory to reason about root cause, instead of just surfacing raw signals.
 
 <p align="left">
@@ -18,7 +18,7 @@ Built for the [SigNoz](https://signoz.io/) hackathon. Correlates telemetry, logs
   <img src="https://img.shields.io/badge/SigNoz-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-[**Tiny Stories**](https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-) **— 15M-parameter language model, from scratch**  
+[**Tiny Stories**](https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-) **15M-parameter language model, from scratch**  
 Implemented transformer architecture, tokenization, and training loop from research papers to understand how LLMs work beneath the API layer.
 
 <p align="left">
@@ -28,16 +28,16 @@ Implemented transformer architecture, tokenization, and training loop from resea
 **Linkerly — URL workspace** *(pre-launch)*  
 A tool for organizing, sharing, and analyzing URLs. *(Repo link pending — currently points to profile, not project.)*
 
-**[Bookeeda](https://github.com/mirukullacode/Bookeeda) — startup, built in college**  
+**[Bookeeda](https://github.com/mirukullacode/Bookeeda)  startup, built in college**  
 Took an idea through user research, product development, and execution. Shortlisted for PIERC's entrepreneurship incubation program from 4,500+ applicants.
 
 ---
 
 ## Experience
 
-- **DevOps Engineer, [Onwe](https://onwe.in/)** — infrastructure and engineering work across the stack.
-- **DevOps & Open Source Lead, [Google Developer Student Club](https://developers.google.com/community/gdsc)** — ran technical sessions on developer tooling for students.
-- **Technical Content Writer, [SigNoz](https://signoz.io/)** — wrote developer-facing technical content for a YC-backed observability company.
+- **DevOps Engineer, [Onwe](https://onwe.in/)** infrastructure and engineering work across the stack.
+- **DevOps & Open Source Lead, [Google Developer Student Club](https://developers.google.com/community/gdsc)** ran technical sessions on developer tooling for students.
+- **Technical Content Writer, [SigNoz](https://signoz.io/)** wrote developer-facing technical content for a YC-backed observability company.
 
 ---
 
