@@ -2,39 +2,77 @@
 
 **Developer • Builder • Tech Enthusiast**
 
-I enjoy building things, learning how technology works under the hood, and sharing what I learn.
+I like building things, understanding how technology works under the hood, and turning ideas into products people can actually use.
 
-My interests span **software engineering, AI/ML, DevOps, developer tools, and startups**. I like going from an idea → research → code → something people can actually use.
+I'm particularly interested in **AI, software engineering, developer tools, DevOps, and startups** — and I learn best by building.
 
-### A little about me
+---
 
-- 🚀 Built **Bookeeda**, a startup I worked on during college, taking it from idea and user research to product development and execution.
-- 🛠️ Worked as a **DevOps Engineer at Onwe**, building and working across infrastructure and engineering.
-- 🌐 Previously led **DevOps & Open Source at Google Developer Student Club**, where I organised technical sessions and helped students learn developer technologies.
-- ✍️ Worked with **SigNoz**, a YC-backed observability startup, as a technical content writer and contributed to developer-focused content and initiatives.
-- 🧠 I learn by building — from AI agents and RAG systems to training a small language model from scratch.
+## What I've built
 
-### Things I've built
+### 🤖 [Argus](https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project)
+**AI-powered server incident investigation agent with memory.**
 
-**[Argus](https://github.com/yoursmanjunad/Argus---SigNoz-Hackathon-Project)**  
-An AI-powered server incident investigation agent with memory.
+An agent that investigates production incidents by bringing together telemetry, context, and reasoning to help understand what went wrong.
 
-**[Small Language Model](https://github.com/yoursmanjunad/Tiny-Stories---Small-Language-Model-)**  
-A ~15M parameter language model built from scratch while studying ideas from research papers.
+### 🧠 [Small Language Model](https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-)
+**~15M parameter language model built from scratch.**
 
-### What I'm exploring
+Built while studying and implementing ideas from research papers to understand how language models work beyond simply using APIs.
 
-**AI/ML** · **LLMs** · **Software Engineering** · **DevOps** · **Developer Tools** · **Distributed Systems** · **Startups**
+### 🔗 [Linkerly](https://github.com/mirukullacode)
+**A workspace for managing, organizing, sharing, and analyzing URLs.**
 
-I'm usually learning something new, building a side project, or trying to understand how a piece of technology actually works.
+Currently building and preparing it for launch.
 
-### Tech I work with
+### 🚀 Bookeeda
+A startup I built during college, taking the idea from user research through product development and execution. It was shortlisted for PIERC's entrepreneurship incubation program from 4,500+ students.
+
+---
+
+## What I'm exploring
+
+**AI Agents** · **LLMs** · **RAG** · **Generative AI** · **Software Engineering** · **DevOps** · **Developer Tools** · **Distributed Systems** · **Startups**
+
+I enjoy going from **idea → research → prototype → product**.
+
+---
+
+## Tech I work with
+
+### AI / ML
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,nodejs,react,nextjs,tailwind,express,mongodb,postgres,redis,docker,aws,gcp,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-### Writing & Links
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### Software / Cloud / DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,cpp,nodejs,react,nextjs,tailwind,express,mongodb,postgres,redis,docker,aws,gcp,linux,git" />
+</p>
+
+**Also:** OpenTelemetry · SigNoz · Grafana · Prometheus · Jaeger · MongoDB Atlas · Vercel
+
+---
+
+## Experience
+
+- 🛠️ **DevOps Engineer at Onwe** — worked across engineering, infrastructure, and team building.
+- 🌐 **DevOps & Open Source Lead at Google Developer Student Club** — organised technical sessions and helped students learn developer technologies.
+- ✍️ **Technical Content Writer at SigNoz** — contributed developer-focused technical content and initiatives for a YC-backed observability startup.
+
+---
+
+## Writing & Links
 
 - ✍️ [Technical Writing Portfolio](https://picayune-nation-3c8.notion.site/Manjunath-Irukulla-3defcd06e28280569e20dd1b11426075?pvs=74)
 - 💼 [LinkedIn](https://www.linkedin.com/in/irumanjunath/)
@@ -45,16 +83,19 @@ I'm usually learning something new, building a side project, or trying to unders
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
-<a href="https://github.com/yoursmanjunad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yoursmanjunad&theme=dark&hide_border=true" /></a>
-
-### Featured Projects
-
-<a href="https://github.com/yoursmanjunad/Argus---SigNoz-Hackathon-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yoursmanjunad&repo=Argus---SigNoz-Hackathon-Project&theme=dark&hide_border=true" />
+<a href="https://github.com/mirukullacode">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirukullacode&theme=dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/yoursmanjunad/Tiny-Stories---Small-Language-Model-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yoursmanjunad&repo=Tiny-Stories---Small-Language-Model-&theme=dark&hide_border=true" />
+## Featured Projects
+
+<a href="https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirukullacode&repo=Argus---SigNoz-Hackathon-Project&theme=dark&hide_border=true" />
 </a>
+
+<a href="https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirukullacode&repo=Tiny-Stories---Small-Language-Model-&theme=dark&hide_border=true" />
+</a>
+
