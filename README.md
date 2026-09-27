@@ -1,101 +1,74 @@
+<div align="center">
+
 # Manjunath Irukulla
 
-Software engineer building AI agents, developer tooling, and products end-to-end from research to shipped code.
+**Software engineer building AI agents, developer tooling, and polished product UI,**
+**from research papers to shipped code.**
 
-[LinkedIn](https://www.linkedin.com/in/irumanjunath/) · [X](https://x.com/MIrukulla) · [Writing](https://picayune-nation-3c8.notion.site/Manjunath-Irukulla-3defcd06e28280569e20dd1b11426075?pvs=74) · [Email](mailto:imanjunad@gmail.com)
+[Website](https://trytweenly.vercel.app) · [LinkedIn](https://www.linkedin.com/in/irumanjunath/) · [X](https://x.com/MIrukulla) · [Writing](https://picayune-nation-3c8.notion.site/Manjunath-Irukulla-3defcd06e28280569e20dd1b11426075?pvs=74) · [Email](mailto:imanjunad@gmail.com)
 
----
+</div>
+
+<br />
+
+## Featured: Tweenly
+
+<a href="https://trytweenly.vercel.app">
+  <img src="https://trytweenly.vercel.app/opengraph-image" alt="tweenly, the motion layer for shadcn/ui" width="100%" />
+</a>
+
+**[tweenly](https://trytweenly.vercel.app)** is an open-source library of **60 animated React components** for shadcn/ui, distributed as a shadcn registry. I designed and built all of it: the components, the docs site, and the tooling that ships them.
+
+- **Live playground for every component.** Every prop is a control, and the usage code rewrites itself as you tweak it, so you copy exactly what you tuned.
+- **Charts that take real data.** Nine chart types share one chart kit (scales, formatters, tooltips, legends) and accept plain row data, editable live in the docs.
+- **Page-level motion that works with the Next.js App Router.** Route transitions, page loaders, sticky-reveal footers, scroll storytelling and physics-based canvas confetti.
+- **Built for adoption.** One-command install through the shadcn CLI, a guided product tour, per-page share images, `llms.txt` for AI assistants, and analytics on installs.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+  <img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" height="48" />
+</p>
+
+[Live site](https://trytweenly.vercel.app) · [Source](https://github.com/mirukullacode/tweenly) · [Changelog](https://trytweenly.vercel.app/changelog)
+
+<br />
 
 ## Projects
 
-[**Argus**](https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project) **AI incident investigation agent**  
-Built for the [SigNoz](https://signoz.io/) hackathon. Correlates telemetry, logs, and traces with memory to reason about root cause, instead of just surfacing raw signals.
+| Project | What it is |
+| :-- | :-- |
+| **[Argus](https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project)** | An AI agent that investigates incidents, built for the [SigNoz](https://signoz.io/) hackathon. It correlates telemetry, logs and traces with memory to reason about the root cause, instead of just surfacing raw signals. *Python · LangGraph · OpenTelemetry* |
+| **[Tiny Stories](https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-)** | A 15M-parameter language model written from scratch. I implemented the transformer, tokenizer and training loop from the research papers to understand how LLMs work beneath the API layer. *Python · PyTorch* |
+| **[Bookeeda](https://github.com/mirukullacode/Bookeeda)** | A startup I built in college, taken from idea through user research to product. Shortlisted for PIERC's incubation program from 4,500+ applicants. |
+| **Linkerly** | A workspace for organizing, sharing and analyzing URLs. *Pre-launch.* |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/SigNoz-000000?style=for-the-badge&logoColor=white" />
-</p>
-
-[**Tiny Stories**](https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-) **15M-parameter language model, from scratch**  
-Implemented transformer architecture, tokenization, and training loop from research papers to understand how LLMs work beneath the API layer.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-**Linkerly — URL workspace** *(pre-launch)*  
-A tool for organizing, sharing, and analyzing URLs. *(Repo link pending — currently points to profile, not project.)*
-
-**[Bookeeda](https://github.com/mirukullacode/Bookeeda)  startup, built in college**  
-Took an idea through user research, product development, and execution. Shortlisted for PIERC's entrepreneurship incubation program from 4,500+ applicants.
-
----
+<br />
 
 ## Experience
 
-- **DevOps Engineer, [Onwe](https://onwe.in/)** infrastructure and engineering work across the stack.
-- **DevOps & Open Source Lead, [Google Developer Student Club](https://developers.google.com/community/gdsc)** ran technical sessions on developer tooling for students.
-- **Technical Content Writer, [SigNoz](https://signoz.io/)** wrote developer-facing technical content for a YC-backed observability company.
+| Role | Where |
+| :-- | :-- |
+| **DevOps Engineer** | [Onwe](https://onwe.in/): infrastructure and engineering work across the stack |
+| **Technical Content Writer** | [SigNoz](https://signoz.io/): developer-facing technical content for a YC-backed observability company |
+| **DevOps & Open Source Lead** | [Google Developer Student Club](https://developers.google.com/community/gdsc): ran technical sessions on developer tooling for students |
 
----
+<br />
 
 ## Stack
 
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,pytorch,react,nextjs,tailwind&perline=9" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,gcp&perline=9" />
 </p>
 
-**Python · TypeScript · JavaScript · Java · C++**
+**AI / ML:** PyTorch, scikit-learn, Pandas, NumPy, LangChain, LangGraph, Hugging Face, OpenAI and Anthropic APIs
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Motion, GSAP
+**Backend and infra:** Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, Docker, AWS, GCP, Linux
+**Observability:** OpenTelemetry, SigNoz, Grafana, Prometheus, Jaeger
 
-### AI / ML
+<br />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-**PyTorch · scikit-learn · Pandas · NumPy · LangChain · LangGraph · Hugging Face · OpenAI & Anthropic APIs**
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" />
-</p>
-
-**React · Next.js · Tailwind CSS · shadcn/ui · GSAP**
-
-### Backend & Infra
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,docker,aws,gcp,linux,git" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-**Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis · Docker · AWS · GCP**
-
-### Observability
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/SigNoz-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black" />
-</p>
-
-**OpenTelemetry · SigNoz · Grafana · Prometheus · Jaeger**
-
-**Currently exploring:** AI agents, RAG, distributed systems, developer tooling.
+**Currently exploring:** AI agents, RAG, distributed systems and developer tooling.
+**Open to:** software engineering roles in AI, developer tools and product engineering. [Say hello](mailto:imanjunad@gmail.com).
