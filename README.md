@@ -38,8 +38,10 @@
 
 | Project | What it is |
 | :-- | :-- |
+| **[IntentGate](https://github.com/mirukullacode/intentgate)** | An MCP gateway that makes AI agents stick to what they said they'd do. The agent declares a plan, ArmorIQ signs it, and every tool call is checked against it, so a prompt-injected agent can't read your keys or post them anywhere. Works with any MCP client and ElevenLabs voice agents, with a Flight Recorder to replay every decision. Built in a week for the ArmorIQ × ElevenLabs hackathon. [Live demo](https://intentgate-production.up.railway.app) *TypeScript · MCP · ArmorIQ · ElevenLabs* |
+| **[vaak](https://github.com/mirukullacode/Vaak)** | Self-hosted, open-source speech-to-text for English, Hindi and other Indic languages: one Python API, CLI and server over six open-weight backends (Whisper, IndicConformer, Parakeet, wav2vec2, Vosk). Includes a benchmark harness where every number says where it came from, and a 14-part tutorial on how speech recognition works. [Docs](https://mirukullacode.github.io/Vaak/) *Python · Whisper · FastAPI* |
 | **[Argus](https://github.com/mirukullacode/Argus---SigNoz-Hackathon-Project)** | An AI agent that investigates incidents, built for the [SigNoz](https://signoz.io/) hackathon. It correlates telemetry, logs and traces with memory to reason about the root cause, instead of just surfacing raw signals. *Python · LangGraph · OpenTelemetry* |
-| **[Tiny Stories](https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-)** | A 15M-parameter language model written from scratch. I implemented the transformer, tokenizer and training loop from the research papers to understand how LLMs work beneath the API layer. *Python · PyTorch* |
+| **[Tiny Stories](https://github.com/mirukullacode/Tiny-Stories---Small-Language-Model-)** | A ~30M-parameter GPT-style language model trained from scratch on TinyStories. I wrote the transformer and training loop to understand how LLMs work beneath the API layer, then audited my own run and wrote up what I'd fix. *Python · PyTorch* |
 | **[Bookeeda](https://github.com/mirukullacode/Bookeeda)** | A startup I built in college, taken from idea through user research to product. Shortlisted for PIERC's incubation program from 4,500+ applicants. |
 | **Linkerly** | A workspace for organizing, sharing and analyzing URLs. *Pre-launch.* |
 
